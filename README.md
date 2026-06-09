@@ -1,5 +1,8 @@
 # DUŹI Framework
 
+> [!WARNING]  
+> ⚠️ Projekt zvibecodowany w celach humorystycznych. Przed zclonowaniem skonsultuj się z lekarzem lub farmaceutą.
+
 DUŹI Framework to narzędzie CLI napisane w języku Rust, które pozwala na wygodne pisanie interfejsów użytkownika dla aplikacji **MAUI** oraz **Xamarin** przy użyciu czystego i ustrukturyzowanego formatu **JSON**, z elementami **Pajtona**.
 
 ## Funkcje
